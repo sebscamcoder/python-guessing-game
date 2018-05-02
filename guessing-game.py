@@ -1,7 +1,7 @@
 from random import *
 
 computerNumber = randint(1,10)
-print "The correct numbner is: " + str(computerNumber) + ". This is for debugging purposes only -DELETE"
+# print "The correct number is: " + str(computerNumber) + ". This is for debugging purposes only -DELETE"
 
 playerGuess = raw_input("I have a number 1-10. Whats the number? ")
 
